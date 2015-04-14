@@ -1,7 +1,7 @@
 {
   "name": "restler",
-  "version": "3.2.2",
-  "description": "An HTTP client library for node.js",
+  "version": "3.2.3",
+  "description": "An HTTP client library for node.js - Unofficial Fork",
   "contributors": [
     {
       "name": "Dan Webb",
@@ -10,12 +10,16 @@
     {
       "name": "Ben Marvell",
       "email": "ben@marvell-consulting.com"
+    },
+    {
+      "name": "Shaun Moran",
+      "email": "smoran@prusikti.ca"
     }
   ],
-  "homepage": "https://github.com/danwrong/restler",
+  "homepage": "https://github.com/prusik/restler",
   "repository": {
     "type": "git",
-    "url": "https://github.com/danwrong/restler.git"
+    "url": "https://github.com/prusik/restler.git"
   },
   "directories": {
     "lib": "./lib"
